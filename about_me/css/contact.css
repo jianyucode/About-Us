@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+ white;
+
+}
+
+.nav-bar {
+  margin: 20px;
+
+
+  position: absolute;
+  right: 150px;
+  bottom: 650px;
+}
+
+li  {
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+ li a {
+  color: #c4c7ce;
+  text-decoration: none;
+  padding: 20px;
+  font-size: 1.5em;
+
+}
+
+a:hover {
+  background-color: #858d9b;
+  color: white;
+}
+
+.form {
+  position: absolute;
+  bottom: 500px;
+  right: 300px;
+}
